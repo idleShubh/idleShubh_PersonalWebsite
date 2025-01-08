@@ -12,7 +12,7 @@ export default function Main() {
         <div className="w-1/3">
           <GlassCard 
             title="About" 
-            content="I’m Shubh Srivastava, a CS student at Scaler School of Technology,passionate about creating impactful tech solutions. Hailing from Lucknow, I thrive on challenges and believe in continuous learning. With a love for coding, content creation, and innovation, I aim to blend technology with creativity. My mantra,Always try to TRY :), drives me to embrace growth and push boundaries. Let’s connect and collaborate!" 
+            content="I’m Shubh Srivastava, a CS student at Scaler School of Technology,passionate about creating impactful tech solutions. Hailing from the city of Nawabs Lucknow, I thrive on challenges and believe in continuous learning. With a love for coding, content creation, and innovation, I aim to blend technology with creativity. My mantra,Always try to TRY :), drives me to embrace growth and push boundaries. Let’s connect and collaborate!" 
             className="h-full"
           />
         </div>
